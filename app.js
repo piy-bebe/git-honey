@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 app.get('/products', (req, res) => {
   const content = fs.readFileSync(filePath,"utf8")
   const products = JSON.parse(content)
-  console.log(products)
+  console.log('[LOG]: ', products)
   res.send(products)
 })
 
