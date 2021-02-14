@@ -4,6 +4,7 @@ const fs = require('fs')
 const app = express()
 const filePath = 'db.json'
 
+const PORT = process.env.PORT || 3000
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
   res.header('Access-Control-Allow-Headers', '*');
@@ -20,4 +21,6 @@ app.get('/products', (req, res) => {
   res.send(products)
 })
 
-app.listen(3000)
+app.listen(3000, () => {
+  console.log(`[PORT ${PORT}]: Server has been started...`)
+})
