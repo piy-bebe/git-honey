@@ -5,7 +5,7 @@ const app = express()
 const filePath = 'db.json'
 
 // app.set('port', process.env.PORT || 3000);
-const PORT = process.env.PORT || 80;
+const PORT = process.env.PORT || 443;
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
   res.header('Access-Control-Allow-Headers', '*');
