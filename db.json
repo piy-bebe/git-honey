@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1, 
-      "title": "Церковный мед", 
+      "title": "Миндаль с медом 1", 
       "price": "1200", 
       "discount": "990",
       "image": "product.png",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2, 
-      "title": "Ореховый мед", 
+      "title": "Миндаль с медом 2", 
       "price": "3200", 
       "discount": "2990",
       "image": "product.png",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3, 
-      "title": "Малиновый мед", 
+      "title": "Миндаль с медом 3", 
       "price": "1700", 
       "discount": "1290",
       "image": "product.png",
@@ -26,41 +26,9 @@
     },
     {
       "id": 4, 
-      "title": "Сахарный мед", 
+      "title": "Миндаль с медом 4", 
       "price": "1700", 
       "discount": "990",
-      "image": "product.png",
-      "weight": "200"
-    },
-    {
-      "id": 5, 
-      "title": "Облепиховый мед", 
-      "price": "1500", 
-      "discount": "1390",
-      "image": "product.png",
-      "weight": "200"
-    },
-    {
-      "id": 6, 
-      "title": "Стандартный мед", 
-      "price": "900", 
-      "discount": "490",
-      "image": "product.png",
-      "weight": "500"
-    },
-    {
-      "id": 7, 
-      "title": "Нежный мед", 
-      "price": "1100", 
-      "discount": "590",
-      "image": "product.png",
-      "weight": "450"
-    },
-    {
-      "id": 8, 
-      "title": "Густой мед", 
-      "price": "1200", 
-      "discount": "690",
       "image": "product.png",
       "weight": "200"
     }
