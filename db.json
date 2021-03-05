@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1, 
-      "title": "Миндаль с медом 1", 
+      "title": "Мед 1", 
       "price": "1200", 
       "discount": "990",
       "image": "product.png",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2, 
-      "title": "Миндаль с медом 2", 
+      "title": "Мед 2", 
       "price": "3200", 
       "discount": "2990",
       "image": "product.png",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3, 
-      "title": "Миндаль с медом 3", 
+      "title": "Мед 3", 
       "price": "1700", 
       "discount": "1290",
       "image": "product.png",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4, 
-      "title": "Миндаль с медом 4", 
+      "title": "Мед 4", 
       "price": "1700", 
       "discount": "990",
       "image": "product.png",
