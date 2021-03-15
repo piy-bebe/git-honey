@@ -2,35 +2,43 @@
   "products": [
     {
       "id": 1, 
-      "title": "Мед 1", 
-      "price": "1200", 
-      "discount": "990",
-      "image": "product.png",
-      "weight": "190"
-    },
-    {
-      "id": 2, 
-      "title": "Мед 2", 
-      "price": "3200", 
-      "discount": "2990",
-      "image": "product.png",
-      "weight": "220"
-    },
-    {
-      "id": 3, 
-      "title": "Мед 3", 
-      "price": "1700", 
-      "discount": "1290",
-      "image": "product.png",
+      "title": "Мед церковный", 
+      "price": "350", 
+      "discount": "200",
+      "image": "product_4.png",
       "weight": "250"
     },
     {
+      "id": 2, 
+      "title": "Мед церковный", 
+      "price": "600", 
+      "discount": "400",
+      "image": "product_1.png",
+      "weight": "500"
+    },
+    {
+      "id": 3, 
+      "title": "Мед церковный с грецким орехом", 
+      "price": "890", 
+      "discount": "780",
+      "image": "product_2.png",
+      "weight": "500"
+    },
+    {
       "id": 4, 
-      "title": "Мед 4", 
-      "price": "1700", 
-      "discount": "990",
-      "image": "product.png",
-      "weight": "200"
+      "title": "Мед церковный с миндалем", 
+      "price": "990", 
+      "discount": "850",
+      "image": "product_5.png",
+      "weight": "500"
+    },
+    {
+      "id": 5, 
+      "title": "Мед в сотах", 
+      "price": "1600", 
+      "discount": "1400",
+      "image": "product_3.png",
+      "weight": "1400"
     }
   ]
 }
